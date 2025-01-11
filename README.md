@@ -1,7 +1,7 @@
 # Sales-Analysis-using-SQL
 SQL Project(using CSV file)
 
-SQL Project Report
+SQL Project Report.
 Title: SQL Project on [Sales_data]
 ________________________________________
 1. Introduction
